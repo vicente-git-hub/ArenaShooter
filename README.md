@@ -4,3 +4,6 @@ I  making a game based on this YoYo Games tutorial: https://www.youtube.com/watc
 
 
 Im using GML language
+
+
+Copyright: https://www.youtube.com/channel/UCOvndqCF3iN2SksQDwR95wg and https://www.youtube.com/channel/UCB6v4W1Js_NNfJ24JkXszbQ
